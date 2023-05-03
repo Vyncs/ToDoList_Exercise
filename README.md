@@ -7,4 +7,4 @@ Venho trazer um exercício simples finalizado, com a utilização do json-server
 boas práticas: ThemeProvider(cores defaults)
 Libs.: phospor-icons, json-server, axios e fonts-google.
 
-para rodar basta instalar o pacote de depência node-modules com yarn ou npm install
+para rodar basta instalar o pacote de depência node-modules com yarn ou npm install 
